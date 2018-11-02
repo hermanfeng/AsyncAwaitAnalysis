@@ -16,9 +16,5 @@ Thread and Thread Pool
 
 
 https://www.cnblogs.com/chenjiang/archive/2013/06/11/3131948.html
-使用特定线程执行委托	独占（一次执行一个委托）	有序（委托按队列顺序执行）	Send 可以直接调用委托	Post 可以直接调用委托
-Windows 窗体	能	能	能	如果从 UI 线程调用	從不
-WPF/Silverlight	能	能	能	如果从 UI 线程调用	從不
-默认	不能	不能	不能	Always	從不
-ASP.NET	不能	能	不能	Always	Always
+
 
